@@ -1,6 +1,5 @@
 venv/
-__pycache__/
-*.pyc
 runs/
 *.pt
 bus.jpg
+__pycache__/
