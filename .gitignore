@@ -2,4 +2,5 @@ venv/
 runs/
 *.pt
 bus.jpg
-__pycache__/
+__pycache__/runs/ 
+videos/ 
